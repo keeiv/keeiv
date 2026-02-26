@@ -6,7 +6,7 @@
 
 ---
 
-## 關於我
+## 關於我/About Me
 
 - 熟悉多種語言開發
 - 注重團隊紀律
@@ -16,12 +16,12 @@
 
 ---
 
-## 活躍度
+## 活躍度/Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=keeiv&theme=dark&hide_border=false%C2%A0%C2%A0%E9%8C%AF%E8%AA%A4%E7%9A%84&short_numbers=false%C2%A0%C2%A0%E9%8C%AF%E8%AA%A4%E7%9A%84)](https://git.io/streak-stats)
 
 ---
 
-## 專案
+## 專案/Projects
 | 專案名稱 | 說明 | 連結 |
 | --- | --- | --- |
 | BOT. | 開放大家踴躍提交PR的Discord Bot | [GitHub](https://github.com/keeiv/bot) |
@@ -29,7 +29,7 @@
 
 ---
 
-## 喜好
+## 喜好/preferences
 - 特攝影集(例如超人力霸王/假面騎士系列)
 - ACG文化/遊戲(例如蔚藍檔案/SAO)
 - 攝影
@@ -37,7 +37,7 @@
 
 ---
 
-## 技術
+## 技術/Tech Stack
 ![Python](https://img.shields.io/badge/Python-F57C00?style=for-the-badge&logo=python&logoColor=white)
 ![Discord Bot](https://img.shields.io/badge/Discord_Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![API](https://img.shields.io/badge/API-FFB300?style=for-the-badge)
