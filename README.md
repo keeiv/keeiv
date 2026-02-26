@@ -36,22 +36,12 @@
 - 遊戲與程式
 
 ---
+### 技術棧 / Tech Stack
 
-## 技術/Tech Stack
-![Python](https://img.shields.io/badge/Python-F57C00?style=for-the-badge&logo=python&logoColor=white)
-![Discord Bot](https://img.shields.io/badge/Discord_Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![API](https://img.shields.io/badge/API-FFB300?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FF7043?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-D81B60?style=for-the-badge&logo=git&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+| 分類 | 技術 / 語言 |
+| :--- | :--- |
+| **主要語言** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-F57C00?style=flat-square&logo=python&logoColor=white) |
+| **Web / Script** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **框架與工具** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Discord](https://img.shields.io/badge/Discord_Bot-7289DA?style=flat-square&logo=discord&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FF7043?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-D81B60?style=flat-square&logo=git&logoColor=white) |
 
 
