@@ -40,7 +40,7 @@
 
 | 分類 | 技術 / 語言 |
 | :--- | :--- |
-| **主要語言** | ![C++](https://img.shields.io/badge/C++-20232A?style=flat-square&logo=c%2B%2B&logoColor=00599C) ![C#](https://img.shields.io/badge/C%23-20232A?style=flat-square&logo=csharp&logoColor=512BD4) ![Java](https://img.shields.io/badge/Java-20232A?style=flat-square&logo=java&logoColor=007396) ![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=F57C00) |
+| **主要語言** | ![C++](https://img.shields.io/badge/C++-20232A?style=flat-square&logo=c%2B%2B&logoColor=00599C) ![C#](https://img.shields.io/badge/C%23-20232A?style=flat-square&logo=csharp&logoColor=512BD4) ![Java](https://img.shields.io/badge/Java-20232A?style=flat-square&logo=java&logoColor=007396) ![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB) |
 | **Web / Script** | ![JS](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Lua](https://img.shields.io/badge/Lua-20232A?style=flat-square&logo=lua&logoColor=2C2D72) ![PHP](https://img.shields.io/badge/PHP-20232A?style=flat-square&logo=php&logoColor=777BB4) ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26) |
 | **工具** | ![.NET](https://img.shields.io/badge/.NET-20232A?style=flat-square&logo=dotnet&logoColor=512BD4) ![Discord](https://img.shields.io/badge/Discord-20232A?style=flat-square&logo=discord&logoColor=7289DA) ![Linux](https://img.shields.io/badge/Linux-20232A?style=flat-square&logo=linux&logoColor=FCC624) ![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032) |
 
