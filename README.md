@@ -30,8 +30,8 @@
 ---
 
 ## 喜好/preferences
-- 特攝影集(例如超人力霸王/假面騎士系列)
-- ACG文化/遊戲(例如蔚藍檔案/SAO)
+- 特攝影集(例如[超人力霸王](https://zh.wikipedia.org/zh-tw/%E8%B6%85%E4%BA%BAX)/[假面騎士](https://zh.wikipedia.org/wiki/%E5%81%87%E9%9D%A2%E9%A8%8E%E5%A3%ABZERO-ONE)系列)
+- ACG文化/遊戲(例如[蔚藍檔案](https://zh.moegirl.org.cn/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88)/[SAO](https://zh.moegirl.org.cn/%E5%88%80%E5%89%91%E7%A5%9E%E5%9F%9F))
 - 攝影
 - 遊戲與程式
 
