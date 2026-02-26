@@ -36,12 +36,13 @@
 - 遊戲與程式
 
 ---
-### 技術棧 / Tech Stack
+## 技術棧 / Tech Stack
 
 | 分類 | 技術 / 語言 |
 | :--- | :--- |
-| **主要語言** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-F57C00?style=flat-square&logo=python&logoColor=white) |
-| **Web / Script** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **框架與工具** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Discord](https://img.shields.io/badge/Discord_Bot-7289DA?style=flat-square&logo=discord&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FF7043?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-D81B60?style=flat-square&logo=git&logoColor=white) |
+| **主要語言** | ![C++](https://img.shields.io/badge/C++-20232A?style=flat-square&logo=c%2B%2B&logoColor=00599C) ![C#](https://img.shields.io/badge/C%23-20232A?style=flat-square&logo=csharp&logoColor=512BD4) ![Java](https://img.shields.io/badge/Java-20232A?style=flat-square&logo=java&logoColor=007396) ![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=F57C00) |
+| **Web / Script** | ![JS](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Lua](https://img.shields.io/badge/Lua-20232A?style=flat-square&logo=lua&logoColor=2C2D72) ![PHP](https://img.shields.io/badge/PHP-20232A?style=flat-square&logo=php&logoColor=777BB4) ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26) |
+| **工具** | ![.NET](https://img.shields.io/badge/.NET-20232A?style=flat-square&logo=dotnet&logoColor=512BD4) ![Discord](https://img.shields.io/badge/Discord-20232A?style=flat-square&logo=discord&logoColor=7289DA) ![Linux](https://img.shields.io/badge/Linux-20232A?style=flat-square&logo=linux&logoColor=FCC624) ![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032) |
+
 
 
