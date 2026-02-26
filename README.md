@@ -12,7 +12,7 @@
 - 注重團隊紀律(Team Discipline)
 - 學習程式語言已有8年以上
 - UI/UX具有深度理解
-- 希望做出與"osu!"一樣厲害與低延遲的音樂遊戲
+- 希望做出與[osu!](https://github.com/ppy/osu)一樣厲害與低延遲的音樂遊戲
 
 ---
 
