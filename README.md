@@ -46,8 +46,9 @@
 
 ---
 
-## 核心技術統計 / Technical Analysis
-![Keeiv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keeiv&layout=compact&theme=dark&hide_border=false&langs_count=6)
+## 代碼建築學 / Code Architecture
+[![Isometric Contributions](https://gh-chart.com/assets/images/keeiv.svg)](https://github.com/keeiv)
+
 
 
 
