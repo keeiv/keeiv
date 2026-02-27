@@ -17,7 +17,7 @@
 ---
 
 ## 活躍度/Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=keeiv&theme=dark&hide_border=false%C2%A0%C2%A0%E9%8C%AF%E8%AA%A4%E7%9A%84&short_numbers=false%C2%A0%C2%A0%E9%8C%AF%E8%AA%A4%E7%9A%84)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=keeiv&theme=radical)
 
 ---
 
