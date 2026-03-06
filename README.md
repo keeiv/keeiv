@@ -25,7 +25,7 @@
 | 專案名稱 | 說明 | 連結 |
 | --- | --- | --- |
 | BOT. | 開放大家踴躍提交PR的Discord Bot | [GitHub](https://github.com/keeiv/bot) |
-| RhythmClicker|音樂節奏遊戲 | 無連結 正在開發中 |
+| RhythmClicker|音樂節奏遊戲 | 沒時間寫了:D |
 
 ---
 
