@@ -25,6 +25,7 @@
 | --- | --- | --- |
 | BOT. | 開放大家踴躍提交PR的Discord Bot | [GitHub](https://github.com/keeiv/bot) |
 | RhythmClicker|音樂節奏遊戲 | 沒時間寫了:D |
+| ChatClaudeAgent | 交叉審查專案 | [GitHub](https;//github.com/keeiv/ChatClaudeAgent) |
 
 ---
 
