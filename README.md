@@ -11,7 +11,7 @@
 - 熟悉多種語言開發
 - 注重團隊紀律(Team Discipline)
 - UI/UX具有深度理解
-- 希望做出與[osu!](https://github.com/ppy/osu)一樣厲害與低延遲的音樂遊戲
+- INFP
 
 ---
 
@@ -46,8 +46,10 @@
 ---
 ## 聯絡/Contact
 - discord:`keeiv`
+- discord: `finn01023333`
+- discord: `nia_98766123`
 - 信箱:`kei@shizune.life`
-
+  
 
 
 
